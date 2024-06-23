@@ -16,8 +16,9 @@ Hi there, as a **Web Developer**, I am driven by the excitement of turning ideas
 
 📈 My GitHub stats
 ------
-<div style="display: flex; align-items: center;">
+<div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=EmilioPG13&show_icons=true&theme=github_dark_dimmed" alt="GitHub Stats">
   <img src="https://streak-stats.demolab.com/?user=EmilioPG13&theme=github_dark_dimmed" alt="GitHub Streak Stats">
 </div>
+
 
