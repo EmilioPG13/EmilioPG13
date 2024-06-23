@@ -8,4 +8,4 @@ As an aspiring **Web Developer**, I am driven by the excitement of turning ideas
 
 📈 My GitHub stats
 ------
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=EmilioPG13&show_icons=true&theme=github_dark_dimmed)  ![GitHub streak stats](https://streak-stats.demolab.com/?user=EmilioPG13&theme=github_dark_dimmed)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=EmilioPG13&show_icons=true&theme=github_dark_dimmed) ![GitHub streak stats](https://streak-stats.demolab.com/?user=EmilioPG13&theme=github_dark_dimmed)  
