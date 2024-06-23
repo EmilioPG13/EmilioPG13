@@ -21,4 +21,7 @@ Hi there, as a **Web Developer**, I am driven by the excitement of turning ideas
   <img src="https://streak-stats.demolab.com/?user=EmilioPG13&theme=github_dark_dimmed" alt="GitHub Streak Stats" height="165" style="max-width: 100%;">
 </div>
 
-
+<details>
+  <summary><h3>📖 My Coding Journey</h3></summary>
+  
+</details>
