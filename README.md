@@ -18,7 +18,7 @@ Hi there, as a **Web Developer**, I am driven by the excitement of turning ideas
 ------
 <div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=EmilioPG13&show_icons=true&theme=github_dark_dimmed" alt="GitHub Stats" height="165" style="max-width: 100%;">
-  <img src="https://streak-stats.demolab.com/?user=EmilioPG13&theme=github_dark_dimmed" alt="GitHub Streak Stats">
+  <img src="https://streak-stats.demolab.com/?user=EmilioPG13&theme=github_dark_dimmed" alt="GitHub Streak Stats" height="165" style="max-width: 100%;">
 </div>
 
 
