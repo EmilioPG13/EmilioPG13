@@ -1,5 +1,5 @@
 # 👨🏽‍💻 Emilio Parra 
-![Banner](https://github.com/EmilioPG13/EmilioPG13/assets/92704678/640429c7-bc32-48d2-a0d4-ab9dbcc40ea1)
+<img src="https://github.com/EmilioPG13/EmilioPG13/assets/92704678/640429c7-bc32-48d2-a0d4-ab9dbcc40ea1" width="888" height="243" alt="Banner">
 
 `Aspiring Web Dev Programmer`
 
