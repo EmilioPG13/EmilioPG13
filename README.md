@@ -23,5 +23,9 @@ Hi there, as a **Web Developer**, I am driven by the excitement of turning ideas
 
 <details>
   <summary><h3>📖 My Coding Journey</h3></summary>
-  
+    My interest in computers was sparked during my early years, largely due to the influence of my father's engagement with technology. The opportunity to learn a variety of tips and commands significantly elevated my user experience.
+
+    As a teenager, platforms like Tumblr piqued my curiosity, they offered users the ability to personalise their pages using HTML. Unbeknownst to me, this was my initial venture into the realm of web development.
+
+    In the years that followed, I found that learning to code was not as daunting as it seemed. This transitioned from a leisurely pursuit to a professional goal. Currently, I am ardently pursuing a career in the tech industry.
 </details>
