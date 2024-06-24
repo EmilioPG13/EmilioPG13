@@ -4,6 +4,8 @@
 
 Hi there, as a **Web Developer**, I am driven by the excitement of turning ideas into browser-based realities. I am enthusiastic about designing and developing websites and web applications that are **fast**, **responsive**, and **accessible** to everyone. My goal is to create an unmatched online experience for all users.
 
+#
+
 🧰 Languages and tools
 ------
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
@@ -14,12 +16,16 @@ Hi there, as a **Web Developer**, I am driven by the excitement of turning ideas
 <br>
 <br>
 
+#
+
 📈 My GitHub stats
 ------
 <div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=EmilioPG13&show_icons=true&theme=github_dark_dimmed" alt="GitHub Stats" height="165" style="max-width: 100%;">
   <img src="https://streak-stats.demolab.com/?user=EmilioPG13&theme=github_dark_dimmed" alt="GitHub Streak Stats" height="165" style="max-width: 100%;">
 </div>
+
+#
 
 <details>
   <summary><h3>📖 My Coding Journey</h3></summary>
