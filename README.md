@@ -1,20 +1,25 @@
 # 👨🏽‍💻 Emilio Parra 
 <img src="https://github.com/EmilioPG13/EmilioPG13/assets/92704678/640429c7-bc32-48d2-a0d4-ab9dbcc40ea1" width="888" height="243" alt="Banner">
 
-`Aspiring Web Dev Programmer`
+`Full-Stack Developer · React · Node.js · AI-Enabled`
 
-Hi there, as a **Web Developer**, I am driven by the excitement of turning ideas into browser-based realities. I am enthusiastic about designing and developing websites and web applications that are **fast**, **responsive**, and **accessible** to everyone. My goal is to create an unmatched online experience for all users.
+Hi there! I'm a **Full-Stack Developer** with a passion for building web applications that are **fast**, **scalable**, and **user-focused**. I work across the stack — from React frontends to REST APIs with Node.js and PostgreSQL — and I'm actively exploring **Data Science** and **AI integration** (Claude API). Currently seeking remote opportunities in software development or data roles.
 
 🧰 Languages and tools
 ------
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
-          
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
+<img align="left" alt="Tailwind CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="Vite" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
+
 <br>
 <br>
 
@@ -28,7 +33,7 @@ Hi there, as a **Web Developer**, I am driven by the excitement of turning ideas
 
 <details>
   <summary><h3>📖 My Coding Journey</h3></summary>
-    <p>My interest in computers was sparked during my early years, largely due to the influence of my father's engagement with technology. The opportunity to learn a variety of tips and commands significantly elevated my user experience.</p>
-    <p>As a teenager, platforms like Tumblr piqued my curiosity, they offered users the ability to personalise their pages using HTML. Unbeknownst to me, this was my initial venture into the realm of web development.</p>
-    <p>In the years that followed, I found that learning to code was not as daunting as it seemed. This transitioned from a leisurely pursuit to a professional goal. Currently, I am ardently pursuing a career in the tech industry.</p>
+    <p>My interest in computers was sparked during my early years, largely due to the influence of my father's engagement with technology. Learning tips, commands, and eventually how things worked under the hood only deepened that curiosity.</p>
+    <p>As a teenager, platforms like Tumblr let me personalize pages with HTML — unknowingly, my first step into web development. That spark eventually grew into a full-stack bootcamp at DEV.F and a B.S. in Computer Science at IU International University.</p>
+    <p>Today I build complete web applications — REST APIs, React frontends, database-backed systems — and I'm expanding into Data Science and AI tooling. I'm actively looking for a remote role in software development where I can keep growing and ship real products.</p>
 </details>
