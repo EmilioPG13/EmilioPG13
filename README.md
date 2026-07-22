@@ -46,9 +46,6 @@ I build complete, production-ready web apps — from client-facing business site
 <br clear="left"><br>
 
 ## 🤖 AI & Machine Learning
-
-## 🤖 AI & Machine Learning
-
 <table>
 <tr>
 <td width="48"><img src="https://cdn.simpleicons.org/claude/D97757" width="32" height="32" alt="Claude"></td>
