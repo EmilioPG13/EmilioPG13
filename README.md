@@ -47,17 +47,19 @@ I build complete, production-ready web apps — from client-facing business site
 
 ## 🤖 AI & Machine Learning
 
+## 🤖 AI & Machine Learning
+
 <table>
 <tr>
-<td width="34"><img src="https://cdn.simpleicons.org/claude/D97757" width="22" height="22" alt="Claude"></td>
+<td width="48"><img src="https://cdn.simpleicons.org/claude/D97757" width="32" height="32" alt="Claude"></td>
 <td>Claude — Claude Code, Artifacts, MCPs</td>
 </tr>
 <tr>
-<td width="34"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="22" height="22" alt="Gemini"></td>
+<td width="48"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="32" height="32" alt="Gemini"></td>
 <td>Gemini — CLI, AI Studio</td>
 </tr>
 <tr>
-<td width="34"><img src="https://raw.githubusercontent.com/EmilioPG13/EmilioPG13/main/assets/openai.svg" width="22" height="22" alt="OpenAI"></td>
+<td width="48"><img src="https://raw.githubusercontent.com/EmilioPG13/EmilioPG13/main/assets/openai.svg" width="32" height="32" alt="OpenAI"></td>
 <td>OpenAI — API usada en CV Tailor</td>
 </tr>
 </table>
