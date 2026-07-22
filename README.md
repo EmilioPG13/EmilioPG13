@@ -46,9 +46,12 @@ I build complete, production-ready web apps — from client-facing business site
 <br clear="left"><br>
 
 ## 🤖 AI & Machine Learning
-<br>
-<img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" /> <img alt="Gemini" src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" /> <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-999999?style=flat-square&logo=openai&logoColor=white" />
-<br><br>
+
+<table><tr>
+<td><img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" /></td>
+<td><img alt="Gemini" src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" /></td>
+<td><img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-999999?style=flat-square&logo=openai&logoColor=white" /></td>
+</tr></table>
 
 Proficient in the Claude ecosystem (Claude Code, Artifacts) and Gemini (CLI, AI Studio), with experience integrating MCPs (Model Context Protocol) to connect external tools to agents. Used in production at CV Tailor, which runs on the OpenAI API to rewrite CVs and generate cover letters.
 
