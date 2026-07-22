@@ -46,13 +46,13 @@ I build complete, production-ready web apps — from client-facing business site
 <br clear="left"><br>
 
 ## 🤖 AI & Machine Learning
-<br>
-<img align="left" alt="Claude" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/claude/D97757" />
-<img align="left" alt="Gemini" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/googlegemini/8E75B2" />
-<img align="left" alt="OpenAI" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmilioPG13/EmilioPG13/main/assets/openai.svg" />
-<br clear="left"><br>
 
-Fluido en el ecosistema de Claude (Claude Code, Artifacts) y Gemini (CLI, AI Studio), con experiencia integrando MCPs (Model Context Protocol) para conectar herramientas externas a agentes. Usado en producción en **CV Tailor**, que corre sobre la API de OpenAI para reescribir CVs y generar cartas de presentación.
+<img src="https://cdn.simpleicons.org/claude/D97757" width="20" height="20" align="absmiddle" /> **Claude**
+<br>
+<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="20" height="20" align="absmiddle" /> **Gemini**
+<br>
+<img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2224%22%20height%3D%2224%22%3E%3Ccircle%20cx%3D%2212%22%20cy%3D%2212%22%20r%3D%2211%22%20fill%3D%22%2310a37f%22/%3E%3C/svg%3E" width="20" height="20" align="absmiddle" /> **OpenAI**
+<br><br>
 
 Proficient in the Claude ecosystem (Claude Code, Artifacts) and Gemini (CLI, AI Studio), with experience integrating MCPs (Model Context Protocol) to connect external tools to agents. Used in production at CV Tailor, which runs on the OpenAI API to rewrite CVs and generate cover letters.
 
