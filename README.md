@@ -46,7 +46,6 @@ I build complete, production-ready web apps — from client-facing business site
 <br clear="left"><br>
 
 ## 🤖 AI & Machine Learning
-<table>
 <tr>
 <td width="34"><img src="https://cdn.simpleicons.org/claude/D97757" width="22" height="22" alt="Claude"></td>
 <td>Claude — Claude Code, Artifacts, MCPs</td>
@@ -56,10 +55,9 @@ I build complete, production-ready web apps — from client-facing business site
 <td>Gemini — CLI, AI Studio</td>
 </tr>
 <tr>
-<td width="34"><img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='22' height='22'%3E%3Crect width='22' height='22' rx='5' fill='%2310A37F'/%3E%3C/svg%3E" width="22" height="22" alt="OpenAI"></td>
+<td width="34"><img src="https://raw.githubusercontent.com/EmilioPG13/EmilioPG13/main/assets/openai.svg" width="22" height="22" alt="OpenAI"></td>
 <td>OpenAI — API usada en CV Tailor</td>
 </tr>
-</table>
 
 Proficient in the Claude ecosystem (Claude Code, Artifacts) and Gemini (CLI, AI Studio), with experience integrating MCPs (Model Context Protocol) to connect external tools to agents. Used in production at CV Tailor, which runs on the OpenAI API to rewrite CVs and generate cover letters.
 
