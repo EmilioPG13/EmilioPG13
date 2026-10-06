@@ -77,7 +77,7 @@ I use Claude Code to scaffold code and tests faster while I keep control of the 
 <img src="https://github-readme-stats-fast.vercel.app/api?username=EmilioPG13&show_icons=true&theme=github_dark_dimmed" alt="GitHub Stats" height="165" style="max-width: 100%;">
 
 <details>
-  <summary><h3>📖 My Coding Journey</h3></summary>
+  <summary><h3> My Coding Journey</h3></summary>
     <p>My interest in computers was sparked during my early years, largely due to the influence of my father's engagement with technology. Learning tips, commands, and eventually how things worked under the hood only deepened that curiosity.</p>
     <p>As a teenager, platforms like Tumblr let me personalize pages with HTML. Unknowingly, that was my first step into web development. That spark eventually grew into a full-stack bootcamp at DEV.F, and today I am finishing a degree in Marketing at Universidad Madero while I keep building software.</p>
     <p>Today I build complete web applications and backend services: REST APIs, React frontends, database-backed systems and a Telegram bot in production. I'm actively looking for a remote role in software development where I can keep growing and ship real products.</p>
