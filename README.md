@@ -1,14 +1,15 @@
 # Emilio Parra
 <img src="https://github.com/EmilioPG13/EmilioPG13/assets/92704678/640429c7-bc32-48d2-a0d4-ab9dbcc40ea1" width="888" height="243" alt="Banner">
 
-`Full-stack developer in Puebla, Mexico. I build web apps and Python services.`
+`Full-stack developer in Puebla, Mexico. I build web apps and backend services in Java, Python and Node.js.`
 
-I build full-stack web apps and backend services with React, Node.js, PostgreSQL and Python. My latest project is a Telegram bot that tracks prices at Mexican stores and alerts users when they drop. It runs in production on Python 3.13, with 360+ tests and CI on both SQLite and PostgreSQL 17. I also built and maintain the website and admin panel for Larsen Italiana, a real industrial machinery company. I use Claude Code and MCP servers in my daily workflow. Currently looking for a remote role in software development.
+I build full-stack web apps and backend services with React, Node.js, PostgreSQL, Python and Java. My latest project is a webhook delivery platform in Java 25 and Spring Boot: signed, retried and SSRF-guarded deliveries over PostgreSQL and SQS, with load tests, a Helm chart and Terraform for AWS. Before it I built a Telegram bot that tracks prices at Mexican stores and runs in production on Python 3.13, with 360+ tests and CI on both SQLite and PostgreSQL 17. I also built and maintain the website and admin panel for Larsen Italiana, a real industrial machinery company. I use Claude Code and MCP servers in my daily workflow. Currently looking for a remote role in software development.
 
 ## Core Stack
 
 **Languages**
 <br><br>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -28,6 +29,7 @@ I build full-stack web apps and backend services with React, Node.js, PostgreSQL
 <br><br>
 <img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/express/999999" />
+<img align="left" alt="Spring Boot" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 <br clear="left"><br>
 
 **Databases and ORMs**
@@ -43,6 +45,8 @@ I build full-stack web apps and backend services with React, Node.js, PostgreSQL
 <br><br>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
+<img align="left" alt="Terraform" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
 <img align="left" alt="GitHub Actions" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
 <img align="left" alt="Pytest" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" />
 <img align="left" alt="Jest" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
@@ -64,6 +68,8 @@ I build full-stack web apps and backend services with React, Node.js, PostgreSQL
 I use Claude Code to scaffold code and tests faster while I keep control of the architecture. In my own projects I call models through NVIDIA NIM. Job Search Agents runs a separate verifier model to catch invented claims in generated CVs and has defenses against prompt injection.
 
 ## Featured Projects
+
+**[Webhook Delivery Platform](https://github.com/EmilioPG13/webhook-delivery-platform)**. Service that accepts events and delivers them to customers' HTTP endpoints, signed (Standard Webhooks), retried over about 47 hours, dead-lettered and guarded against SSRF. At-least-once delivery with the failure cases covered by tests, including a worker killed mid-delivery. Measured with k6 (a consumer bottleneck fixed from 13 to 47 deliveries per second) and a rolling update on Kubernetes with zero lost events. 12 documented design decisions. Java 25, Spring Boot 4.1, PostgreSQL 18, SQS, Helm, Terraform, deployed once to EKS. 439 tests against real PostgreSQL and SQS-compatible containers.
 
 **[Price Tracker Bot](https://github.com/EmilioPG13/price-tracker-bot)** ([try it on Telegram](https://t.me/Emilio_price_tracker_bot)). Telegram bot that tracks product prices at Cyberpuerta and Liverpool and alerts you when a price reaches your target. Python 3.13, python-telegram-bot, SQLAlchemy 2 (async), PostgreSQL, Docker. 360+ tests at 91% coverage, CI on SQLite and PostgreSQL 17, image published to GHCR and deployed on Northflank.
 
