@@ -3,6 +3,8 @@
 
 `Full-stack developer in Puebla, Mexico. I build web apps and backend services in Java, Python and Node.js.`
 
+**Site, case studies and CV:** [emilioparra.dev](https://emilioparra.dev) · [Download CV](https://emilioparra.dev/emilio-parra-cv.pdf) · hello@emilioparra.dev
+
 I build full-stack web apps and backend services with React, Node.js, PostgreSQL, Python and Java. My latest project is a webhook delivery platform in Java 25 and Spring Boot: signed, retried and SSRF-guarded deliveries over PostgreSQL and SQS, with load tests, a Helm chart and Terraform for AWS. Before it I built a Telegram bot that tracks prices at Mexican stores and runs in production on Python 3.13, with 360+ tests and CI on both SQLite and PostgreSQL 17. I also built and maintain the website and admin panel for Larsen Italiana, a real industrial machinery company. I use Claude Code and MCP servers in my daily workflow. Currently looking for a remote role in software development.
 
 ## Core Stack
@@ -69,7 +71,9 @@ I use Claude Code to scaffold code and tests faster while I keep control of the 
 
 ## Featured Projects
 
-**[Webhook Delivery Platform](https://github.com/EmilioPG13/webhook-delivery-platform)**. Service that accepts events and delivers them to customers' HTTP endpoints, signed (Standard Webhooks), retried over about 47 hours, dead-lettered and guarded against SSRF. At-least-once delivery with the failure cases covered by tests, including a worker killed mid-delivery. Measured with k6 (a consumer bottleneck fixed from 13 to 47 deliveries per second) and a rolling update on Kubernetes with zero lost events. 12 documented design decisions. Java 25, Spring Boot 4.1, PostgreSQL 18, SQS, Helm, Terraform, deployed once to EKS. 439 tests against real PostgreSQL and SQS-compatible containers.
+**[Webhook Delivery Platform](https://github.com/EmilioPG13/webhook-delivery-platform)** ([case study](https://emilioparra.dev/projects/webhook-delivery-platform)). Service that accepts events and delivers them to customers' HTTP endpoints, signed (Standard Webhooks), retried over about 47 hours, dead-lettered and guarded against SSRF. At-least-once delivery with the failure cases covered by tests, including a worker killed mid-delivery. Measured with k6 (a consumer bottleneck fixed from 13 to 47 deliveries per second) and a rolling update on Kubernetes with zero lost events. 12 documented design decisions. Java 25, Spring Boot 4.1, PostgreSQL 18, SQS, Helm, Terraform, deployed once to EKS. 439 tests against real PostgreSQL and SQS-compatible containers.
+
+**[Court Booking](https://github.com/EmilioPG13/reservation-system)** ([live demo](https://reservation-system-azure.vercel.app), interface in Spanish, and [case study](https://emilioparra.dev/projects/court-booking)). Padel court reservations where double bookings are impossible by construction: a PostgreSQL exclusion constraint rejects overlapping reservations, and a test fires 20 simultaneous requests at one slot (one created, nineteen rejected). Python, FastAPI, React 19, TypeScript, PostgreSQL 17. 224 backend tests at 94% coverage and 26 frontend tests.
 
 **[Price Tracker Bot](https://github.com/EmilioPG13/price-tracker-bot)** ([try it on Telegram](https://t.me/Emilio_price_tracker_bot)). Telegram bot that tracks product prices at Cyberpuerta and Liverpool and alerts you when a price reaches your target. Python 3.13, python-telegram-bot, SQLAlchemy 2 (async), PostgreSQL, Docker. 360+ tests at 91% coverage, CI on SQLite and PostgreSQL 17, image published to GHCR and deployed on Northflank.
 
@@ -78,6 +82,10 @@ I use Claude Code to scaffold code and tests faster while I keep control of the 
 **[Job Search Agents](https://github.com/EmilioPG13/job-search-agents)**. Pipeline that pulls postings from 6 job boards, filters them against my skills profile with free rule-based checks before any model call, and tailors a CV for each match. A separate verifier checks every CV for invented claims. Node.js, SQLite, NVIDIA NIM.
 
 **[CV Tailor](https://cv-tailor-gold-zeta.vercel.app)** ([code](https://github.com/EmilioPG13/cv-tailor)). Bilingual (EN/ES) app that tailors your CV and cover letter to a job posting and exports a print-ready one-page PDF. React 19, Express, Supabase, Clerk, NVIDIA NIM.
+
+## Contact
+
+Email [hello@emilioparra.dev](mailto:hello@emilioparra.dev) · [LinkedIn](https://linkedin.com/in/emilio-parra-3813a5107) · [CV (PDF)](https://emilioparra.dev/emilio-parra-cv.pdf)
 
 ## My GitHub Stats
 <img src="https://github-readme-stats-fast.vercel.app/api?username=EmilioPG13&show_icons=true&theme=github_dark_dimmed" alt="GitHub Stats" height="165" style="max-width: 100%;">
