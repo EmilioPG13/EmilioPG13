@@ -1,7 +1,7 @@
 # Emilio Parra
 <img src="https://github.com/EmilioPG13/EmilioPG13/assets/92704678/640429c7-bc32-48d2-a0d4-ab9dbcc40ea1" width="888" height="243" alt="Banner">
 
-`Full-stack developer in Puebla, Mexico. I build web apps and backend services in Java, Python and Node.js.`
+`Software Developer in Puebla, Mexico. Backend and full-stack in Java, Python and TypeScript.`
 
 **Site, case studies and CV:** [emilioparra.dev](https://emilioparra.dev) · [Download CV](https://emilioparra.dev/emilio-parra-cv.pdf) · hello@emilioparra.dev
 
